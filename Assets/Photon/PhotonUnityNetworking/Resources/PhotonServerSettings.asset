@@ -28,4 +28,5 @@ MonoBehaviour:
   EnableSupportLogger: 0
   RunInBackground: 1
   RpcList: []
-  Disable
+  DisableAutoOpenWizard: 1
+  ShowSettings: 0
